@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/L0/1me/1me.iml" filepath="$PROJECT_DIR$/L0/1me/1me.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L0/2HW/2HW.iml" filepath="$PROJECT_DIR$/L0/2HW/2HW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L0/3HW/3HW.iml" filepath="$PROJECT_DIR$/L0/3HW/3HW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L0/Class_Work1/Class_Work1.iml" filepath="$PROJECT_DIR$/L0/Class_Work1/Class_Work1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L1/HW1.L1/HW1.L1.iml" filepath="$PROJECT_DIR$/L1/HW1.L1/HW1.L1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L1/L1.CW/L1.CW.iml" filepath="$PROJECT_DIR$/L1/L1.CW/L1.CW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L1/L1.HW2/L1.HW2.iml" filepath="$PROJECT_DIR$/L1/L1.HW2/L1.HW2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L1/L1.HW3/L1.HW3.iml" filepath="$PROJECT_DIR$/L1/L1.HW3/L1.HW3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L2/L2.CW1/L2.CW1.iml" filepath="$PROJECT_DIR$/L2/L2.CW1/L2.CW1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L2/L2.HW1/L2.HW1.iml" filepath="$PROJECT_DIR$/L2/L2.HW1/L2.HW1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L2/L2.HW2/L2.HW2.iml" filepath="$PROJECT_DIR$/L2/L2.HW2/L2.HW2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L2/L2.HW3/L2.HW3.iml" filepath="$PROJECT_DIR$/L2/L2.HW3/L2.HW3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L3/L3.CW/L3.CW.iml" filepath="$PROJECT_DIR$/L3/L3.CW/L3.CW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L3/L3.HW1/L3.HW1.iml" filepath="$PROJECT_DIR$/L3/L3.HW1/L3.HW1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L3/L3.HW2/L3.HW2.iml" filepath="$PROJECT_DIR$/L3/L3.HW2/L3.HW2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L3/L3.HW3/L3.HW3.iml" filepath="$PROJECT_DIR$/L3/L3.HW3/L3.HW3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L4/L4.CW1/L4.CW1.iml" filepath="$PROJECT_DIR$/L4/L4.CW1/L4.CW1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L4/L4.HW1/L4.HW1.iml" filepath="$PROJECT_DIR$/L4/L4.HW1/L4.HW1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L4/L4.HW2/L4.HW2.iml" filepath="$PROJECT_DIR$/L4/L4.HW2/L4.HW2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L4/L4.HW3/L4.HW3.iml" filepath="$PROJECT_DIR$/L4/L4.HW3/L4.HW3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java_lecture.iml" filepath="$PROJECT_DIR$/.idea/java_lecture.iml" />
+    </modules>
+  </component>
+</project>
